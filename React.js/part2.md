@@ -11,5 +11,20 @@ output of [1,2,3,4].map((item) => item > 2) ?
 
 <!-- ---------------reactJs--------------- -->
 
-useEffect hook and uselayouteffect hook?
+useEffect hook and useLayoutEffect hook?
 useMemo and useCallback?
+memoisation?
+redux and context api difference?
+package.json and package.lock.json
+
+
+<!-- ---------------html--------------- -->
+inline and block
+div and span
+meta and progress
+
+<!-- ---------------css--------------- -->
+css border and css outline
+positioning properties
+how to overlap elements
+z-index?
