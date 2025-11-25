@@ -7,7 +7,7 @@ can browser read jsx directly?
 what is transcriber?
 new feature of es6?
 promises and states of promises?
-useeffect and its parameter?
+useEffect and its parameter?
 reducer?
 padding and margin?
 tags in html?
